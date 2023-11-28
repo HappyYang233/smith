@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 3213.999999999999,
+          "bottomRow": 3135.999999999999,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
@@ -29,18 +29,6 @@
           "version": 87,
           "responsiveBehavior": "fill",
           "flexLayers": [
-            {
-              "children": [
-                {
-                  "id": "k4iks430o2",
-                  "align": "start"
-                },
-                {
-                  "id": "xmn83o1hkm",
-                  "align": "start"
-                }
-              ]
-            },
             {
               "children": [
                 {
