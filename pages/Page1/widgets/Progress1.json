@@ -15,7 +15,7 @@
     "fillColor": "{{appsmith.theme.colors.primaryColor}}",
     "mobileRightColumn": 64,
     "parentColumnSpace": 13.140625,
-    "leftColumn": 22.512562814070353,
+    "leftColumn": 22.654867256637168,
     "dynamicBindingPathList": [
         {"key": "fillColor"},
         {"key": "borderRadius"}
@@ -23,7 +23,7 @@
     "key": "2y5egpfjfm",
     "showResult": false,
     "isDeprecated": false,
-    "rightColumn": 43.256281407035175,
+    "rightColumn": 43.32743362831859,
     "counterClosewise": false,
     "widgetId": "zh0mvjg28c",
     "isVisible": true,

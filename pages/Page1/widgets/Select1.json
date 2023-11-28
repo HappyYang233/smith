@@ -8,7 +8,7 @@
     "serverSideFiltering": false,
     "defaultOptionValue": "GREEN",
     "animateLoading": true,
-    "leftColumn": 43.256281407035175,
+    "leftColumn": 43.32743362831859,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
