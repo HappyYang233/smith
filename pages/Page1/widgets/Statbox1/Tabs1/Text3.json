@@ -16,6 +16,7 @@
     "animateLoading": true,
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "dynamicTriggerPathList": [],
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
@@ -24,7 +25,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "21% more than last month",
+    "text": "杨",
     "key": "o7p2486bm4",
     "isDeprecated": false,
     "rightColumn": 64,
