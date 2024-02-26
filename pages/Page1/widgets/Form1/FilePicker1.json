@@ -15,7 +15,7 @@
     "mobileRightColumn": 6.632,
     "animateLoading": true,
     "parentColumnSpace": 12.84375,
-    "leftColumn": 54.166453265044815,
+    "leftColumn": 54.24142312579416,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}

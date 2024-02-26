@@ -13,13 +13,13 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 560,
           "containerStyle": "none",
           "snapRows": 54,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 87,
+          "version": 89,
           "minHeight": 560,
           "useAutoLayout": true,
           "parentColumnSpace": 1,
@@ -40,6 +40,14 @@
               "children": [
                 {
                   "id": "5qsuvbx3ts",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "ayjkih8krq",
                   "align": "start"
                 }
               ]

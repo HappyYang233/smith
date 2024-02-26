@@ -55,10 +55,16 @@
             "mobileTopRow": 0,
             "responsiveBehavior": "fill",
             "mobileLeftColumn": 0,
-            "flexLayers": [{"children": [{
-                "id": "jg7kow0cju",
-                "align": "start"
-            }]}]
+            "flexLayers": [
+                {"children": [{
+                    "id": "jg7kow0cju",
+                    "align": "start"
+                }]},
+                {"children": [{
+                    "id": "t327t834gu",
+                    "align": "start"
+                }]}
+            ]
         },
         {
             "tabId": "tab2",
